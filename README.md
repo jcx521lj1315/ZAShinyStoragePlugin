@@ -1,6 +1,6 @@
 # About  
 This project uses `PKHeX.Core` and PKHeX's `IPlugin` interface to add the ability to view and remove the stored Shiny Pokémon in Legends: ZA save files
-This Repository is owned by [@Omni-KingZeno](https://github.com/Omni-KingZeno)<br>
+This Repository is owned by [@间辞](https://github.com/jcx521lj1315)<br>
 
 ## Building  
 This project requires an IDE that supports compiling .NET based code, such as Visual Studio 2022, and the [.NET 9.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
